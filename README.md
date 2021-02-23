@@ -2,7 +2,7 @@
 ## - WebGL rendering library written in pure WebGL and JS ES6+
 - CTUGL stands for Czech Technical University Graphics Library
 
-<p style="width: 35%">
+<p style="margin-left: 2em">
    <img src="minecraft_lobby.JPG" style="width: 35%">
    <img src="chinesse.JPG" style="width: 35%">
    <img src="castle_fog.JPG" style="width: 35%">
