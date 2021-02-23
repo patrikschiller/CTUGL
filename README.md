@@ -6,7 +6,7 @@
    <img src="minecraft_lobby2.JPG">
 </p>
 <p style="max-width: 20%">
-    <img src="castle_fog.JPG">
+    <img src="castle_fog2.JPG">
 </p>
 
 ## About
