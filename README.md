@@ -2,9 +2,12 @@
 ## - WebGL rendering library
 - CTUGL stands for Czech Technical University Graphics Library
 
-<img src="minecraft_lobby.JPG" style="width: 45%">
-
-<img src="castle_fog.JPG" style="width: 45%">
+<p style="width: 45%">
+  <img src="minecraft_lobby.JPG">
+</p>
+<p style="width: 45%">
+  <img src="castle_fog.JPG">
+</p>
 
 ## About
 I created this library while I was working on my bachelor's thesis project. Because of the size and complexity of my project, it was necessary to extract
