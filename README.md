@@ -2,7 +2,7 @@
 ## - WebGL rendering library
 - CTUGL stands for Czech Technical University Graphics Library
 
-<p style="max-width: 45%">
+<p style="max-width: 35%">
    <img src="minecraft_lobby2.JPG">
 </p>
 <p style="max-width: 30%">
