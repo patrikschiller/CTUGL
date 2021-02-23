@@ -5,7 +5,7 @@
 <p style="max-width: 45%">
    <img src="minecraft_lobby2.JPG">
 </p>
-<p style="max-width: 20%">
+<p style="max-width: 30%">
     <img src="castle_fog2.JPG">
 </p>
 
