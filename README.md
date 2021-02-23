@@ -23,9 +23,9 @@ The amount of code is substituted by simple method call, so several lines of cod
 
 *This is still Work in Progress and will be updated in the future.*
 
-The base part of the library is represented by single file - `ctugl.js`. It is based on the orignal **pgr-framework** library which is used by studets of CG programming course (https://cent.felk.cvut.cz/courses/PGR/).
+The base part of the library is represented by single file - `ctugl.js`. It is based on the original **__pgr-framework__** library which is used by students of CG programming course (https://cent.felk.cvut.cz/courses/PGR/).
 Responsible person is Ing. Petr Felkel, Ph.D.; DCGI (felkepet@fel.cvut.cz). More info at https://dcgi.fel.cvut.cz/ .
 
 ### 2) Advanced
-The rest of the library constists of classes which can be used while developing some more advanced 3D apps (games). It provides quite simple interface and freedom of usage. 
+The rest of the library consists of classes which can be used while developing some more advanced 3D apps (games). It provides quite simple interface and freedom of usage. 
 The user doesn't have to use all of the classes but only those he needs. For example Skybox, Cursor etc.
