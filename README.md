@@ -4,7 +4,7 @@
 
 <p style="margin-left: 2em">
    <img src="minecraft_lobby.JPG" style="width: 20em" width="200px">
-   <img src="chinesse.JPG" style="width: 35vw">
+   <img src="chinesse.JPG" style="width: 350px">
    <img src="castle_fog.JPG" style="width: 35vh">
 </p>
 
