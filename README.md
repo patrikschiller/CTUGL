@@ -4,12 +4,8 @@
 
 <p style="max-width: 35%">
    <img src="minecraft_lobby.JPG">
-</p>
-<p style="max-width: 35%">
    <img src="chinesse.JPG">
-</p>
-<p style="max-width: 35%">
-    <img src="castle_fog.JPG">
+   <img src="castle_fog.JPG">
 </p>
 
 ## About
