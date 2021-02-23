@@ -1,5 +1,5 @@
 # CTUGL
-## - WebGL rendering library
+## - WebGL rendering library written in pure WebGL and JS ES6+
 - CTUGL stands for Czech Technical University Graphics Library
 
 <p style="max-width: 35%">
