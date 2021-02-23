@@ -3,9 +3,9 @@
 - CTUGL stands for Czech Technical University Graphics Library
 
 <p style="margin-left: 2em">
-   <img src="minecraft_lobby.JPG" style="width: 20em" width="200px">
-   <img src="chinesse.JPG" style="width: 350px">
-   <img src="castle_fog.JPG" style="width: 35vh">
+   <img src="minecraft_lobby.JPG" style="width: 20em" width="600px">
+   <img src="chinesse.JPG" style="width: 350px" width="600px">
+   <img src="castle_fog.JPG" style="width: 35vh" width="600px">
 </p>
 
 ## About
